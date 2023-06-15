@@ -7,7 +7,7 @@ export default function FancyCard() {
       <Text style={styles.headingText}>Trending places</Text>
       <View style={[styles.card,styles.cardElevated]}>
         <Image 
-            source={{uri: ''}}
+            source={{uri: 'https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Hawa_Mahal_2011.jpg/696px-Hawa_Mahal_2011.jpg?20110116201159'}}
             style={styles.cardImage}
         />
         <View style={styles.cardBody}>
